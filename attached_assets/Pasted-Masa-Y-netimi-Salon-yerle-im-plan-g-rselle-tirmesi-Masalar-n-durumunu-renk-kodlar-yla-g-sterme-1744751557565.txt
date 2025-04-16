@@ -1,0 +1,76 @@
+Masa Yönetimi:
+
+Salon yerleşim planı görselleştirmesi
+Masaların durumunu renk kodlarıyla gösterme (boş, dolu, hesap istedi)
+Masalar arası adisyon transferi
+Masa birleştirme ve ayırma
+Masa rezervasyon entegrasyonu
+Mutfak Entegrasyonu:
+
+Mutfak sipariş ekranı (KDS - Kitchen Display System)
+Sipariş hazırlama süresi takibi
+Sipariş önceliklendirilmesi
+Pişirme talimatları ve özel notlar
+Hazır bildirimleri
+Menü Yönetimi:
+
+Mevsimsel veya günlük menüler oluşturma
+Malzeme bazlı stok takibi ve otomatik uyarılar
+Alerjen bilgisi ve besin değeri gösterimi
+Porsiyon seçenekleri (küçük, normal, büyük)
+"Günün önerisi" gibi özel menü öğeleri
+Garson ve Servis Yönetimi:
+
+Garson bazlı sipariş takibi ve performans ölçümü
+Garson çağrı sistemi
+Servis süreçleri takibi (içecekler servisi, yemek servisi)
+Çalışan vardiya planlama
+Müşteri İlişkileri:
+
+Müşteri profili oluşturma ve tercih kaydetme
+Müşteri sadakat programı ve puan sistemi
+Doğum günü özel indirimleri
+Müşteri geri bildirim anketi
+Müşteri harcama geçmişi ve tercihleri
+Dağıtım ve Paket Servis Entegrasyonu:
+
+Paket servis siparişleri yönetimi
+Teslimat süresini takip etme
+Teslimat bölgesi harita görünümü
+Getir, Yemeksepeti gibi platformlarla entegrasyon
+Dijital Menü ve Sipariş:
+
+QR kod ile masadan dijital menü görüntüleme
+Müşterinin kendi cihazından sipariş vermesi
+Dijital menüde görsel ve video desteği
+Önerilen ürünler ve kombo menüler
+Rezervasyon Yönetimi:
+
+Online rezervasyon entegrasyonu
+Masa doluluk oranı optimizasyonu
+Rezervasyon onayları ve hatırlatmaları
+VIP müşteri rezervasyon önceliği
+İşletme Yönetimi:
+
+Gider takibi (elektrik, su, kira, vb.)
+Personel maaş ve prim hesaplamaları
+Karlılık analizleri
+Maliyet hesaplamaları ve fiyat optimizasyonu
+Gelişmiş Raporlama:
+
+Yoğunluk analizi (günün/haftanın en yoğun saatleri)
+Masa kullanım verimliliği
+Ortalama müşteri harcaması
+Yemek kategorisi performans analizi
+Sezonsal trend analizi
+Entegrasyonlar:
+
+Muhasebe yazılımı entegrasyonu
+E-fatura ve e-arşiv entegrasyonu
+Banka POS entegrasyonu
+WhatsApp Business entegrasyonu (rezervasyon onayları, özel teklifler)
+Mobil Erişim:
+
+İşletme sahipleri için mobil yönetim paneli
+Gerçek zamanlı satış ve performans raporları
+Uzaktan sistem yapılandırması
